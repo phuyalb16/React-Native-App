@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b85b9b33-d4f1-4782-8d8c-586eb138d673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/HomeComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/MainComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/leaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/promotions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HomeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/HomeComponent.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/MainComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="-10">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -49,14 +52,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/HomeComponent.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/comments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="162" column="1" selection-start-line="162" selection-start-column="1" selection-end-line="162" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/promotions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/leaders.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -102,8 +132,11 @@
         <option value="$PROJECT_DIR$/components/DIshdetailComponent.js" />
         <option value="$PROJECT_DIR$/components/DishdetailComponent.js" />
         <option value="$PROJECT_DIR$/components/MenuComponent.js" />
-        <option value="$PROJECT_DIR$/components/HomeComponent.js" />
         <option value="$PROJECT_DIR$/components/MainComponent.js" />
+        <option value="$PROJECT_DIR$/shared/comments.js" />
+        <option value="$PROJECT_DIR$/shared/promotions.js" />
+        <option value="$PROJECT_DIR$/shared/leaders.js" />
+        <option value="$PROJECT_DIR$/components/HomeComponent.js" />
       </list>
     </option>
   </component>
@@ -172,12 +205,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548223338544</updated>
-      <workItem from="1548223346915" duration="5363000" />
+      <workItem from="1548223346915" duration="6141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5363000" />
+    <option name="totallyTimeSpent" value="6141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -237,16 +270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/HomeComponent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/DishdetailComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -259,8 +282,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/MainComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="-10">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="162" column="1" selection-start-line="162" selection-start-column="1" selection-end-line="162" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/promotions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/leaders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/HomeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
